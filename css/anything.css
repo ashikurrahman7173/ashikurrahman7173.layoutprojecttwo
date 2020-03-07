@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+.section01{
+    width: 100%;
+    height: 400px;
+    background: white;
+}
+.titlebox{
+    width: 313px;
+    height: 161px;
+    float: left;
+    background: rgb(241, 105, 105);
+    margin: 10px;
+}
+.titlebox h1{
+    margin-left: 10px;
+}
+.titlebox p {
+    margin-left: 10px;
+}
+section{
+    margin-top: 10px;
+    background-color:#f16969e0;
+    min-height: 700px;
+}
+.imageBox{
+    
+    width: 33.33%;
+    height: 268px;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.imageBox img{
+    width: 100%;
+    height: 100%;
+}
+section h1{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 25px;
+}
